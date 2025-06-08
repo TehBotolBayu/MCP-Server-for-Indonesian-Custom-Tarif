@@ -1,7 +1,3 @@
-Certainly! Here's the edited version of your Markdown text, tailored for the **Indonesian Customs Tariff** domain and **Hascode API** usage, while keeping everything in **English**:
-
----
-
 # MCP Server Example for Indonesian Customs Tariff & Hascode API
 
 This repository provides an example implementation of a **Model Context Protocol (MCP)** server, customized for educational use in the context of **Indonesian customs tariff data** and **Hascode API integration**. The project demonstrates how to build a functional MCP server that connects to APIs such as Hascode to fetch tariff and HS code information for AI models.
@@ -126,5 +122,3 @@ If Claude Desktop fails to detect your server:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-Would you like help writing the actual `main.py` that fetches Indonesian tariff data using Hascode API?
